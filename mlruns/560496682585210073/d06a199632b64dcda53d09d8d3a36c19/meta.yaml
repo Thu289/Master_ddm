@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Cuthi/OneDrive/Documents/Master/DDM/mlruns/560496682585210073/d06a199632b64dcda53d09d8d3a36c19/artifacts
+end_time: 1744435933180
+entry_point_name: ''
+experiment_id: '560496682585210073'
+lifecycle_stage: active
+run_id: d06a199632b64dcda53d09d8d3a36c19
+run_name: rf_hyperparameter_tuning
+run_uuid: d06a199632b64dcda53d09d8d3a36c19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744435933143
+status: 4
+tags: []
+user_id: Cuthi

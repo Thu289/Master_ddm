@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1744978360498
+current_stage: None
+description: null
+last_updated_timestamp: 1744978360498
+name: best_classification_model
+run_id: 859225cb84f747b0b3216241c97f9ee3
+run_link: null
+source: file:///C:/Users/Cuthi/OneDrive/Documents/Master/DDM/mlruns/560496682585210073/859225cb84f747b0b3216241c97f9ee3/artifacts/rf_tuned_model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/Cuthi/OneDrive/Documents/Master/DDM/mlruns/560496682585210073/859225cb84f747b0b3216241c97f9ee3/artifacts/rf_tuned_model
+user_id: null
+version: 3

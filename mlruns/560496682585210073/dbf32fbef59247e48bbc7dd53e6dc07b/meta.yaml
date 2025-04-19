@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Cuthi/OneDrive/Documents/Master/DDM/mlruns/560496682585210073/dbf32fbef59247e48bbc7dd53e6dc07b/artifacts
+end_time: 1745043700926
+entry_point_name: ''
+experiment_id: '560496682585210073'
+lifecycle_stage: active
+run_id: dbf32fbef59247e48bbc7dd53e6dc07b
+run_name: logistic_regression
+run_uuid: dbf32fbef59247e48bbc7dd53e6dc07b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745043697469
+status: 3
+tags: []
+user_id: Cuthi

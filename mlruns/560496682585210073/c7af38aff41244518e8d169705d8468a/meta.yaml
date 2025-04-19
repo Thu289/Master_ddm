@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Cuthi/OneDrive/Documents/Master/DDM/mlruns/560496682585210073/c7af38aff41244518e8d169705d8468a/artifacts
+end_time: 1744435789976
+entry_point_name: ''
+experiment_id: '560496682585210073'
+lifecycle_stage: active
+run_id: c7af38aff41244518e8d169705d8468a
+run_name: random_forest
+run_uuid: c7af38aff41244518e8d169705d8468a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744435789894
+status: 4
+tags: []
+user_id: Cuthi
